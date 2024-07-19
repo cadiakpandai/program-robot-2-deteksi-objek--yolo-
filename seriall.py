@@ -20,3 +20,5 @@ while True:
     nilai_integer += 1
     kirim_data(nilai_integer)
     time.sleep(0.05)  # Beri jeda satu detik sebelum mengirim data berikutnya
+    
+    # halo
